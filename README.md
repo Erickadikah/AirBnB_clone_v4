@@ -154,8 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-erick adikah - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
-Kwabena sapong - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
+Erick Adikah - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/erick_adikah)
+Kwabena Sapong - [Github](https://github.com/kwabenasapong) / [Twitter](https://twitter.com/SapongKwabena
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 
