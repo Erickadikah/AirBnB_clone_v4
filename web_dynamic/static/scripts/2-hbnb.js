@@ -8,7 +8,6 @@ $('document').ready(function() {
         }
         $('.amenities h4').text(Object.values(checked).join(', '));
     });
-});
 
 const apiStatus = $('DIV#api_status');
 $.ajax('http://0.0.0.0:5001/api/v1/status/').done(function (data) {
@@ -18,4 +17,4 @@ $.ajax('http://0.0.0.0:5001/api/v1/status/').done(function (data) {
       apiStatus.removeClass('available');
     }
   });
-  });
+});
