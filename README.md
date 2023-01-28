@@ -156,7 +156,7 @@ No known bugs at this time.
 ## Authors
 Erick Adikah - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/erick_adikah)
 Kwabena Sapong - [Github](https://github.com/kwabenasapong) / [Twitter](https://twitter.com/SapongKwabena
-Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
+Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 
 Second part of Airbnb: Joann Vuong
